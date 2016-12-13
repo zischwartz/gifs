@@ -299,15 +299,6 @@
   - hashtag
   - neil
   - patrick
-- title: picard-oooh.gif
-  category: burn
-  path: burn/picard-oooh.gif
-  modified_time: 1473273607
-  tags:
-  - burn
-  - gif
-  - oooh
-  - picard
 - title: elephant-wave-bye.gif
   category: bye
   path: bye/elephant-wave-bye.gif
@@ -1335,6 +1326,15 @@
   - gif
   - sagan
   - youre
+- title: chance-beyonce.gif
+  category: excited
+  path: excited/chance-beyonce.gif
+  modified_time: 1481646787
+  tags:
+  - beyonce
+  - chance
+  - excited
+  - gif
 - title: cookie-monster.gif
   category: excited
   path: excited/cookie-monster.gif
@@ -2913,6 +2913,15 @@
   - milk
   - noze
   - out
+- title: picard-oooh.gif
+  category: lol
+  path: lol/picard-oooh.gif
+  modified_time: 1473273607
+  tags:
+  - gif
+  - lol
+  - oooh
+  - picard
 - title: dj-spok.gif
   category: lolwat
   path: lolwat/dj-spok.gif
