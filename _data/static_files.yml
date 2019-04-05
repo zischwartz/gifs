@@ -1,13 +1,13 @@
 ---
-- title: whiskey-pour.gif
-  category: cinemagraphs
-  path: cinemagraphs/whiskey-pour.gif
-  modified_time: 1473273150
+- title: disgust-jony-depp.gif
+  category: disgust
+  path: disgust/disgust-jony-depp.gif
+  modified_time: 1473273152
   tags:
-  - cinemagraphs
+  - depp
+  - disgust
   - gif
-  - pour
-  - whiskey
+  - jony
 - title: 36-Friday-Damn.gif
   category: omg
   path: omg/36-Friday-Damn.gif
@@ -4230,15 +4230,6 @@
   - gif
   - omg
   - prince
-- title: disgust-jony-depp.gif
-  category: disgust
-  path: disgust/disgust-jony-depp.gif
-  modified_time: 1473273152
-  tags:
-  - depp
-  - disgust
-  - gif
-  - jony
 - title: pour-one-out.gif
   category: rip
   path: rip/pour-one-out.gif
